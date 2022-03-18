@@ -18,7 +18,7 @@ import ytthumbnail
 video = 'https://youtu.be/rokGy0huYEA'  # link/id
 
 # Basic Usage
-print(ytthumb.thumbnail(video))
+print(ytthumbnail.thumbnail(video))
 # => returns thumbnail link
 
 # Advanced Usage
